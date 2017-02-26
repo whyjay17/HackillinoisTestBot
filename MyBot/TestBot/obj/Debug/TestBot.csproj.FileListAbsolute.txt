@@ -1,0 +1,41 @@
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Bot Application1.dll.config
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Bot Application1.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Bot Application1.pdb
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Autofac.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Chronic.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Microsoft.Bot.Builder.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Microsoft.Bot.Connector.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Newtonsoft.Json.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\System.Net.Http.Formatting.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\System.Web.Http.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\System.Web.Http.WebHost.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Autofac.xml
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Microsoft.Bot.Builder.xml
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Microsoft.Bot.Connector.xml
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Microsoft.Rest.ClientRuntime.xml
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\Newtonsoft.Json.xml
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\System.Net.Http.Formatting.xml
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\System.Web.Http.xml
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\System.Web.Http.WebHost.xml
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\obj\Debug\TestBot.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\obj\Debug\Bot Application1.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\obj\Debug\Bot Application1.pdb
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\FootballData.dll
+D:\Visual Studio Projects\ConsoleApplication1\MyBot\TestBot\bin\FootballData.pdb
